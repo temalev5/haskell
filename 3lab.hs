@@ -1,0 +1,1 @@
+summar x = sum(map sum x)
